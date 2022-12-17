@@ -3,7 +3,7 @@
 
 ## I am a Mobile Developer at SIT KSA, Android Developer and Flutter Developer, GDG Organizer and Instructor.
 
-I had a lot of Mobile Applications in play store and app store like  Zahey-Store , Zahey-Dashboard-Android , Zahey-Dashboard-IOS , Kafey-Android , Kafey-IOS , Tadween , nartaqy-Android , nartaqy-ios , TM_QTR , Elkenany , Dalil-AlShrouq.
+I had a lot of Mobile Applications in play store and app store like  Zahey-Store , Zahey-Dashboard-Android-IOS , Kafey-Android-IOS , Tadween , nartaqy-Android-ios , TM_QTR , Elkenany , Dalil-AlShrouq.
 
 
 - 🔭 I’m currently working as a ** Mobile Developer |  at [SIT KSA](http://sitksa-eg.com/).
