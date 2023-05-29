@@ -1,5 +1,4 @@
 ### Hi, I am Mohamed ElBanna 👋
-![120916712_3370071659779504_745958782574846784_n](https://user-images.githubusercontent.com/25868452/154821155-005dcf21-562a-4dc6-9f3e-3028bc92e665.jpg =250x250)
 
 ## I am a Mobile Developer at Gate Techs, Android Developer and Flutter Developer, GDG Organizer and Instructor.
 
