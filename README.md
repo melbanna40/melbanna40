@@ -63,16 +63,16 @@ I specialize in transforming complex business requirements into robust mobile ex
 > - Designed custom quiz engines and personalized learning schedules, prioritizing educational efficacy and smooth UX.
 
 <details>
-<summary><b>🔍 View More Projects (Kafey, Amn, 2PayMe, and more)</b></summary>
-
-- **[آمن - AMN](https://apps.apple.com/eg/app/%D8%A2%D9%85%D9%86-amn/id6746725542)**: Specialized digital platform for legal services and case management.
-- **[2 PAY ME](https://apps.apple.com/eg/app/2-pay-me/id6448679192)**: Financial billing and automated invoice scheduling platform.
+<summary><b>🔍 View More Projects (Amn, 2PayMe, Happy Land, and more)</b></summary>
+- **[AMN](https://apps.apple.com/eg/app/%D8%A2%D9%85%D9%86-amn/id6746725542)**: Specialized digital platform for legal services and case management.
+- **[Badreltamam Academy](https://apps.apple.com/eg/app/dr-badreltamam-academy/id6754294959)**: Medical training and exam preparation platform.
 - **[Dr.Mostafa Aboussaad](https://apps.apple.com/eg/app/dr-mostafa-aboussaad/id1629220206)**: Online reservations for psychological and educational consultations.
 - **[Happy Land](https://apps.apple.com/eg/app/happy-land/id6464602421)**: Communication and management platform for educational institutions.
-- **[Badreltamam Academy](https://apps.apple.com/eg/app/dr-badreltamam-academy/id6754294959)**: Medical training and exam preparation platform.
 - **[Kafey](https://apps.apple.com/sa/app/kafey/id1609414547)**: Enterprise HR & Employee Management system.
-
+- **[2 PAY ME](https://apps.apple.com/eg/app/2-pay-me/id6448679192)**: Financial billing and automated invoice scheduling platform.
+- **[Alsaif-Express](https://play.google.com/store/apps/details?id=com.sit.shipping_client)**: Logistics and shipping service application.
 </details>
+
 
 ---
 
