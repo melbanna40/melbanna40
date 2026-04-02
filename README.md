@@ -65,10 +65,13 @@ I specialize in transforming complex business requirements into robust mobile ex
 <details>
 <summary><b>🔍 View More Projects (Kafey, Amn, 2PayMe, and more)</b></summary>
 
-- **[Amn](https://apps.apple.com/app/id1645851484)**: Legal services platform for case management.
+- **[آمن - AMN](https://apps.apple.com/eg/app/%D8%A2%D9%85%D9%86-amn/id6746725542)**: Specialized digital platform for legal services and case management.
+- **[2 PAY ME](https://apps.apple.com/eg/app/2-pay-me/id6448679192)**: Financial billing and automated invoice scheduling platform.
+- **[Dr.Mostafa Aboussaad](https://apps.apple.com/eg/app/dr-mostafa-aboussaad/id1629220206)**: Online reservations for psychological and educational consultations.
+- **[Happy Land](https://apps.apple.com/eg/app/happy-land/id6464602421)**: Communication and management platform for educational institutions.
+- **[Badreltamam Academy](https://apps.apple.com/eg/app/dr-badreltamam-academy/id6754294959)**: Medical training and exam preparation platform.
 - **[Kafey](https://apps.apple.com/sa/app/kafey/id1609414547)**: Enterprise HR & Employee Management system.
-- **[2PayMe](https://apps.apple.com/app/id1552554443)**: Financial billing and automated invoice scheduling.
-- **[Badreltamam Academy](https://apps.apple.com/app/id1588824151)**: Medical training & exam preparation platform.
+
 </details>
 
 ---
