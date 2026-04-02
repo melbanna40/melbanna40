@@ -75,10 +75,18 @@ I specialize in transforming complex business requirements into robust mobile ex
 
 ### 📈 GitHub Stats & Activity
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=melbanna40&show_icons=true&theme=tokyonight&hide_border=true" alt="Mohamed's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melbanna40&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
-</p>
+<div align="center">
+<table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=melbanna40&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" width="100%" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melbanna40&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -97,4 +105,3 @@ As a **GDG Organizer**, I am committed to fostering the tech ecosystem. I've hel
 </p>
 
 ---
-*"Building the future of mobile, one commit at a time."*
