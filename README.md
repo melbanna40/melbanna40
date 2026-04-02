@@ -64,6 +64,7 @@ I specialize in transforming complex business requirements into robust mobile ex
 
 <details>
 <summary><b>🔍 View More Projects (Amn, 2PayMe, Happy Land, and more)</b></summary>
+
 - **[AMN](https://apps.apple.com/eg/app/%D8%A2%D9%85%D9%86-amn/id6746725542)**: Specialized digital platform for legal services and case management.
 - **[Badreltamam Academy](https://apps.apple.com/eg/app/dr-badreltamam-academy/id6754294959)**: Medical training and exam preparation platform.
 - **[Dr.Mostafa Aboussaad](https://apps.apple.com/eg/app/dr-mostafa-aboussaad/id1629220206)**: Online reservations for psychological and educational consultations.
@@ -71,24 +72,18 @@ I specialize in transforming complex business requirements into robust mobile ex
 - **[Kafey](https://apps.apple.com/sa/app/kafey/id1609414547)**: Enterprise HR & Employee Management system.
 - **[2 PAY ME](https://apps.apple.com/eg/app/2-pay-me/id6448679192)**: Financial billing and automated invoice scheduling platform.
 - **[Alsaif-Express](https://play.google.com/store/apps/details?id=com.sit.shipping_client)**: Logistics and shipping service application.
-</details>
 
+</details>
 
 ---
 
 ### 📈 GitHub Stats & Activity
 
 <div align="center">
-<table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=melbanna40&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" width="100%" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melbanna40&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%" />
-      </td>
-    </tr>
-  </table>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=melbanna40&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melbanna40&layout=compact&theme=tokyonight&hide_border=true)
+
 </div>
 
 ---
