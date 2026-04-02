@@ -1,81 +1,100 @@
-### Hi, I am Mohamed ElBanna 👋
+# Mohamed ElBanna | Senior Mobile Applications Engineer 🚀
 
-## I am a Mobile Developer at TamayyuzCenter, Android Developer and Flutter Developer, GDG Organizer and Instructor.
+**Architecting Scalable Mobile Solutions | Flutter & Android Expert | 250k+ Global Downloads**
 
-I had a lot of Mobile Applications in play store and app store like [Tadween](https://play.google.com/store/apps/details?id=app.tadween), Kafey-[Android](https://play.google.com/store/apps/details?id=com.ingaz.kafey)-[IOS](https://apps.apple.com/sa/app/kafey/id1609414547?platform=iphone), , Nartaqy-[Android](https://play.google.com/store/apps/details?id=com.hashstudio.nartaqy_app)-[IOS](https://apps.apple.com/ca/app/%D9%86%D8%B1%D8%AA%D9%82%D9%8A/id1549343639#?platform=iphone), [BALL FEUD](https://play.google.com/store/apps/details?id=com.ball_fued) [Dalil-AlShrouq](https://play.google.com/store/apps/details?id=io.dalil), [O2Share](https://play.google.com/store/apps/details?id=com.o2share.app), [El-Herafyeen](https://play.google.com/store/apps/details?id=com.elherafyeen.elherafyeen&hl=en%E2%89%B7=US), [Euro-Club-Rescue-Service](https://play.google.com/store/apps/details?id=com.euroclub.rescue&hl=en%E2%89%B7=US) [تحفيظ جزء عم](https://apps.apple.com/app/id6443708178?platform=iphone), [Everywhere](https://play.google.com/store/apps/details?id=com.everywhere.eg), [Alsaif-Express](https://play.google.com/store/apps/details?id=com.sit.shipping_client) [Burger-Nook](https://play.google.com/store/apps/details?id=com.burgernook&hl=en%E2%89%B7=US) [Istchrat](https://play.google.com/store/apps/details?id=com.istchrat.app).
+---
 
+### 👨‍💻 Professional Summary
 
-- 🔭 I’m currently working as a ** Mobile Developer |  at [TamayyuzCenter](https://tamayyuzcenter.com/home).
-- 🌱 I’m currently learning  and Developing Mobile Application with Flutter.
-- 💬 Ask me about: Firebase, OOP, Java, XML, Android, Web, Mobile, RESTful APIs, Database, UI, UX, Cloud, Flutter,Version Control, Team Management.
-- 📫 How to reach me: catch, and follow me from the footer links below 👇 in addition to follow me here.
-- ⚡ Fun fact: i Love 😺 🌍 ❄️ 🍎 🍔 🍤 ⚽️ 🎧 🎬 🎤 ✈️ 💻 📱 📸  
--->
+I am a production-focused **Senior Mobile Applications Engineer** with over 5 years of experience building high-performance cross-platform and native applications. My engineering philosophy centers on **Clean Architecture**, **Scalability**, and **Maintainable Codebases**. 
+
+I specialize in transforming complex business requirements into robust mobile experiences. My work has powered market-leading apps in the Saudi and Egyptian markets, serving over **150,000 monthly active users** and maintaining high stability in production environments.
+
+---
+
+### 📊 Engineering Impact at a Glance
+
+| Metric | Achievement |
+| :--- | :--- |
+| **Total Downloads** | 250,000+ across App Store & Play Store |
+| **Active User Base** | 150,000+ MAU (Jawahr App) |
+| **App Ratings** | Consistently maintaining 4.0+ stars |
+| **Community** | GDG Organizer with 6,000+ members |
+
+---
+
+### 🛠 Technical Arsenal
+
+#### **Core Technologies**
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+
+#### **Architecture & State Management**
+- **Architectures**: Clean Architecture, MVVM, SOLID Principles
+- **State Management**: BLoC/Cubit, Riverpod, Provider
+- **Local DB**: Isar, SQLite, Hive
+- **Networking**: Dio, GraphQL, RESTful APIs
+
+#### **DevOps & Tools**
+- **CI/CD**: GitHub Actions, Fastlane, Codemagic
+- **VCS**: Git (GitHub, GitLab, Bitbucket)
+- **Deployment**: App Store Connect, Google Play Console, Firebase App Distribution
+
+---
+
+### 🌟 Featured Engineering Projects
+
+#### **[Jawahr - Domestic Workforce](https://play.google.com/store/apps/details?id=app.jawahr.com)**
+> **Focus: Scalability & High Traffic**
+> - Architected the core Flutter infrastructure to support **150,000+ monthly active users**.
+> - Engineered complex booking flows and real-time location services with a focus on state management (BLoC) and performance.
+
+#### **[Huffaz Al-Quran](https://play.google.com/store/apps/details?id=com.tamayyuzcenter.huffazulquran)**
+> **Focus: Interactive Media & Offline-First**
+> - Developed a comprehensive Quran memorization platform with **100,000+ downloads**.
+> - Implemented advanced audio recitation engines and interactive progress tracking using a modular, clean architecture.
+
+#### **[Huffaz Al-Mutoon](https://play.google.com/store/apps/details?id=com.tamayyuzcenter.huffazulmutoon)**
+> **Focus: Educational Logic & UX**
+> - Built a specialized Islamic text learning app with **100,000+ downloads**.
+> - Designed custom quiz engines and personalized learning schedules, prioritizing educational efficacy and smooth UX.
+
 <details>
-  <summary>Some interesting facts about me!</summary>
-  <br>
+<summary><b>🔍 View More Projects (Kafey, Amn, 2PayMe, and more)</b></summary>
 
-  - While Coding, Listening Music and developing useful code. ⭐️
-
-  - Watching Youtube, Reading Books, Action, Comics,Historical Fiction, Romance, History books.
-
-  - Learning programming and getting knowledge about AI & ML.
-
-![My github stats](https://github-readme-stats.vercel.app/api?username=melbanna40&show_icons=true)
-  
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melbanna40)
-  
-![Total Contribution](https://github-readme-streak-stats.herokuapp.com/?user=melbanna40)
-
-#### Programming language i am using :
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-
-#### Frameworks  i am using :
-<img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-
-
-#### Version Controls :
-<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>
-<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-
-#### Hosting :
-<img src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
-  
-#### Artificial Intelligence :
-<img src="https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-
-#### IDE :
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
-<img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/>
-
-
-#### Others:
-<img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
-
+- **[Amn](https://apps.apple.com/app/id1645851484)**: Legal services platform for case management.
+- **[Kafey](https://apps.apple.com/sa/app/kafey/id1609414547)**: Enterprise HR & Employee Management system.
+- **[2PayMe](https://apps.apple.com/app/id1552554443)**: Financial billing and automated invoice scheduling.
+- **[Badreltamam Academy](https://apps.apple.com/app/id1588824151)**: Medical training & exam preparation platform.
 </details>
-<hr>
+
+---
+
+### 📈 GitHub Stats & Activity
+
 <p align="center">
-  <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
-<p align="center">
-    <a href="https://twitter.com/MBanna40" alt="Twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/melbanna40/" alt="Linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://www.instagram.com/mel.banna40/?hl=en" alt="Instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-    <a href="https://www.facebook.com/MElBanna40" alt="Facebook"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-    <a href="https://github.com/melbanna40" alt="GitHub"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-</p> 
+  <img src="https://github-readme-stats.vercel.app/api?username=melbanna40&show_icons=true&theme=tokyonight" alt="Mohamed's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melbanna40&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
 </p>
+
+---
+
+### 🤝 Leadership & Community
+
+As a **GDG Organizer**, I am committed to fostering the tech ecosystem. I've helped grow our local branch to **6,000+ members**, organizing workshops and mentorship sessions for aspiring mobile engineers. I believe that a great engineer doesn't just write code—they elevate everyone around them.
+
+---
+
+### 📫 Connect with Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/melbanna40/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="melbanna40" /></a>
+<a href="https://twitter.com/MBanna40" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="MBanna40" /></a>
+<a href="mailto:mel.banna40@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mel.banna40@gmail.com" /></a>
+</p>
+
+---
+*"Building the future of mobile, one commit at a time."*
