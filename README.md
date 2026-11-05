@@ -4,7 +4,7 @@
 
 <img src="https://img.shields.io/badge/Downloads-250K%2B-0EA5E9?style=for-the-badge&logo=apprater&logoColor=white" alt="Downloads" />
 <img src="https://img.shields.io/badge/Active_Users-150K%2B_MAU-22D3EE?style=for-the-badge&logo=android&logoColor=white" alt="MAU" />
-<img src="https://img.shields.io/badge/Apps_Shipped-20%2B-8B5CF6?style=for-the-badge&logo=googleplay&logoColor=white" alt="Apps Shipped" />
+<img src="https://img.shields.io/badge/Apps_Shipped-10%2B-8B5CF6?style=for-the-badge&logo=googleplay&logoColor=white" alt="Apps Shipped" />
 <img src="https://img.shields.io/badge/App_Ratings-4.0%E2%AD%90%2B-F59E0B?style=for-the-badge&logo=apple&logoColor=white" alt="Ratings" />
 <img src="https://img.shields.io/badge/GDG_Organizer-6K%2B_Members-34D399?style=for-the-badge&logo=googlechrome&logoColor=white" alt="GDG" />
 <img src="https://komarev.com/ghpvc/?username=melbanna40&style=for-the-badge&color=0F172A&label=PROFILE+VIEWS" alt="Profile Views" />
@@ -93,9 +93,7 @@ Today I'm founder-building **[Xeer](https://xeer.app)** — an Islamic personal 
 > - Arabic typography and curriculum-driven UX
 
 <details>
-<summary><b>📱 Full App Portfolio — 20+ products shipped to the stores</b></summary>
-
-**🟢 Live on the stores**
+<summary><b>📱 More Shipped Apps — live on the stores</b></summary>
 
 | App | Platform | Domain |
 | :--- | :--- | :--- |
@@ -107,20 +105,6 @@ Today I'm founder-building **[Xeer](https://xeer.app)** — an Islamic personal 
 | **[Elherafyeen — الحرفيين](https://play.google.com/store/apps/details?id=com.elherafyeen.elherafyeen)** | Android | Trades & craftsmen services platform |
 | **[Burger Nook — زاوية البرجر](https://play.google.com/store/apps/details?id=com.burgernook)** · [iOS](https://apps.apple.com/us/app/%D8%B2%D8%A7%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D8%A8%D8%B1%D8%AC%D8%B1/id1531327709) | Android + iOS | Food ordering — burger restaurant brand |
 | **[Asmak Al-Hamra — اسماك الحمراء](https://apps.apple.com/us/app/%D8%A7%D8%B3%D9%85%D8%A7%D9%83-%D8%A7%D9%84%D8%AD%D9%85%D8%B1%D8%A7%D8%A1/id1634425588)** | iOS | Seafood ordering & delivery |
-
-**📦 Earlier work — since delisted from the stores**
-
-| App | Platform | Domain |
-| :--- | :--- | :--- |
-| **Kafey** | iOS + Android | Enterprise HR & employee management (KSA) |
-| **Badreltamam Academy** | iOS | Medical training & exam preparation |
-| **Nartaqy — نرتقي** | iOS + Android | Education & learning platform |
-| **Euro Assist** | iOS + Android | Roadside assistance & vehicle rescue services |
-| **Zahey — زاهي** (Store · Merchant · Dashboard) | iOS + Android | E-commerce suite: storefront, seller & admin apps |
-| **Tadween — تدوين** | Android | — |
-| **Bayaan — بيان** | Android | — |
-| **Dalil — دليل** | Android | Local directory & listings |
-| **Everywhere** | Android | — |
 
 </details>
 
