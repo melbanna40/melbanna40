@@ -17,9 +17,9 @@
 
 Senior Mobile Apps Developer in **Cairo, Egypt** with **7+ years** shipping Flutter-first apps (plus native Android & iOS) for the **Saudi & Egyptian markets**.
 
-Currently a **Backend & Mobile Engineer at [Xeer](https://xeer.app)** (Islamic personal finance), owning the Flutter app, the Node.js API and App Store / Google Play subscriptions. Previously at **Recapet**, I built Flutter features for **[Jawahr](https://play.google.com/store/apps/details?id=app.jawahr.com)**, a Saudi home-services booking app with **150,000+ monthly active users**, and at **Tamayyuz Center** I shipped **Huffaz Al-Quran** and **Huffaz Al-Mutoon** — **770,000+ users** combined.
+Currently a part-time **Backend & Mobile Engineer at [Xeer](https://xeer.app)** (Islamic personal finance), owning the Flutter app, the Node.js API and App Store / Google Play subscriptions. From Feb 2025 to Aug 2026 I was also a part-time **Flutter Developer at [Neotrick](https://www.linkedin.com/company/neotrick/)**, building client apps such as **AMN** (legal-office management) and the **King Khalid Foundation** survey app. Previously at **Recapet**, I built Flutter features for **[Jawahr](https://play.google.com/store/apps/details?id=app.jawahr.com)**, a Saudi home-services booking app with **150,000+ monthly active users**, and at **Tamayyuz Center** I shipped **Huffaz Al-Quran** and **Huffaz Al-Mutoon** — **770,000+ users** combined.
 
-On the side: sole developer of **Roquia** (Islamic spiritual wellness, pre-release).
+On the side: sole developer of **Roquia** (Islamic spiritual wellness, pre-release), and freelance developer of **Copa**, a football-pitch booking app live on the Saudi App Store.
 
 - 🏗️ **Clean Architecture** evangelist — SOLID, MVVM, feature-first codebases that scale with teams
 - 💳 **Payments & subscriptions** — payment integrations, App Store & Google Play in-app subscriptions with server-side verification
@@ -87,12 +87,24 @@ On the side: sole developer of **Roquia** (Islamic spiritual wellness, pre-relea
 > - Quizzes, educational modules & personalized learning plans
 > - Arabic typography, RTL rendering and curriculum-driven UX
 
-### 🔥 [Xeer — Islamic Personal Finance](https://xeer.app) · [⬇️ Download](https://xeer.app/download) · *Feb 2025 – present*
+### 🔥 [Xeer — Islamic Personal Finance](https://xeer.app) · [⬇️ Download](https://xeer.app/download) · *Part-time, Feb 2025 – present*
 > **Backend & Mobile Engineer** on the startup team:
 > - 📱 **Mobile**: Flutter app (BLoC/Cubit, GetIt, Dio/Retrofit, Drift, Firebase Auth with Apple & Google sign-in)
 > - 💳 **Subscriptions**: App Store & Google Play IAP end to end — purchase flow, server-side verification, App Store Server Notifications V2 & Google Play RTDN
 > - ⚙️ **Backend & Release**: Node.js (Hapi, MongoDB) API; one-command Fastlane release to both stores
 > - Live gold/silver prices, multi-currency conversion & credit-card payoff planning, in Arabic & English
+
+### 🧩 Neotrick — Client Apps · *Part-time Flutter Developer, Feb 2025 – Aug 2026*
+> **Flutter (BLoC/Cubit, GetIt, auto_route, Dio/Retrofit), Arabic & English, dev/prod flavors**
+> - ⚖️ **[AMN — آمن](https://apps.apple.com/eg/app/%D8%A2%D9%85%D9%86-amn/id6746725542)**: legal-office management for lawyers and agents — lawsuits, bookings, real-time chat (Laravel Echo), AI chat, subscriptions, office & mission management
+> - 📋 **King Khalid Foundation survey app** (sole developer): organisation & employee accounts, OTP sign-in, evaluation and data-collection surveys, push notifications
+> - 🎓 **Badr Al-Tamam Academy** (e-learning): in-app purchases and FCM push notifications
+> - 🚀 Fastlane & GitHub Actions release pipelines to TestFlight and Google Play
+
+### ⚽ [Copa — ملاعب كوبا](https://apps.apple.com/sa/app/id6695719655) · *Freelance, 2023 – 2026*
+> **Football-pitch booking & team matches in Buraidah, KSA** · live on the App Store
+> - Reservations, fixed recurring bookings, team creation & joining, cancellation fines and slot-cancelled alerts
+> - Remote Config force updates, push notifications, Fastlane releases (Play internal track & Firebase App Distribution)
 
 ### 🌙 Roquia (رقية) — Islamic Spiritual Wellness · *Pre-release*
 > **Sole Developer** of the monorepo:
@@ -104,7 +116,6 @@ On the side: sole developer of **Roquia** (Islamic spiritual wellness, pre-relea
 
 | App | Platform | Domain |
 | :--- | :--- | :--- |
-| **[AMN — آمن](https://apps.apple.com/eg/app/%D8%A2%D9%85%D9%86-amn/id6746725542)** | iOS | Digital platform for legal services & case management |
 | **[Dr. Mostafa Aboussaad](https://apps.apple.com/eg/app/dr-mostafa-aboussaad/id1629220206)** | iOS | Online reservations for psychological & educational consultations |
 | **[Happy Land](https://apps.apple.com/eg/app/happy-land/id6464602421)** | iOS | Communication & management for educational institutions |
 | **[2 PAY ME](https://apps.apple.com/eg/app/2-pay-me/id6448679192)** | iOS | Financial billing & automated invoice scheduling |
