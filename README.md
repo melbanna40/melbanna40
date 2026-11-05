@@ -70,12 +70,12 @@ Today I'm founder-building **[Xeer](https://xeer.app)** — an Islamic personal 
 
 ## 🚀 Flagship Products
 
-### 🔥 [Xeer — Islamic Personal Finance](https://xeer.app) · *Building Now*
-> **Founder-building** a modern Islamic finance platform: **Flutter** mobile app + **Next.js** web + custom backend.
-> - Riba-free money management: budgeting, goals & halal-aware financial planning
-> - Subscription monetization via Apple StoreKit & Google Play Billing (end-to-end IAP pipeline)
-> - Shorebird OTA code pushes + fully automated CI/CD shipping to both stores
-> - Arabic-first UX with RTL polish and production-grade crash reporting
+### 🔥 [Xeer — Islamic Personal Finance](https://xeer.app) · [⬇️ Download](https://xeer.app/download) · *Building Now*
+> **Founder & Full-Stack Engineer** — owning the entire product end-to-end, solo across the whole stack:
+> - 📱 **Mobile**: **Flutter** app — subscription IAP via Apple StoreKit & Google Play Billing, Shorebird OTA patches
+> - 🌐 **Web**: **Next.js** web app — finance dashboard & management portal
+> - ⚙️ **Backend & DevOps**: custom backend + fully automated CI/CD pipeline shipping to both stores
+> - Riba-free money management: budgeting, goals & halal-aware financial planning with Arabic-first RTL UX
 
 ### 🏆 [Jawahr — Domestic Workforce Platform](https://play.google.com/store/apps/details?id=app.jawahr.com)
 > **Focus: Scalability & High Traffic**
