@@ -77,12 +77,12 @@ On the side: sole developer of **Roquia** (Islamic spiritual wellness, pre-relea
 > - Build and maintain core Flutter features: booking flows, service browsing, location-based services & payment integrations
 > - Analytics tracking for user-journey and conversion-funnel analysis; performance & stability work
 
-### 📖 [Huffaz Al-Quran — Quran Memorization](https://play.google.com/store/apps/details?id=com.tamayyuzcenter.huffazulquran) · *Tamayyuz Center, 2024–2025*
+### 📖 [Huffaz Al-Quran — Quran Memorization](https://play.google.com/store/apps/details?id=com.tamayyuzcenter.huffazulquran) · *Tamayyuz Center, 2024–present (freelance since late 2025)*
 > **Focus: Interactive Media & Offline-First** · **200,000+ users**
 > - Audio recitation with streaming optimization, progress tracking & offline access through caching
 > - Cross-device progress sync with conflict resolution; OTA patching & store automation
 
-### 📚 [Huffaz Al-Mutoon — Islamic Texts Learning](https://play.google.com/store/apps/details?id=com.tamayyuzcenter.huffazulmutoon) · *Tamayyuz Center, 2024–2025*
+### 📚 [Huffaz Al-Mutoon — Islamic Texts Learning](https://play.google.com/store/apps/details?id=com.tamayyuzcenter.huffazulmutoon) · *Tamayyuz Center, 2024–present (freelance since late 2025)*
 > **Focus: Educational Logic & UX** · **560,000+ users**
 > - Quizzes, educational modules & personalized learning plans
 > - Arabic typography, RTL rendering and curriculum-driven UX
