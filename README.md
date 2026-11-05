@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0EA5E9,100:22D3EE&height=230&section=header&text=Mohamed%20El%20Banna&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Mobile%20Engineer%20%E2%80%A2%20Flutter%20Architect%20%E2%80%A2%20Founder%20@%20Xeer&descAlignY=56&descSize=15.5" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0EA5E9,100:22D3EE&height=230&section=header&text=Mohamed%20L-Banna&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Mobile%20Apps%20Developer%20%E2%80%A2%20Flutter%20%E2%80%A2%20Android%20%E2%80%A2%20iOS&descAlignY=56&descSize=15.5" width="100%" />
 
-<img src="https://img.shields.io/badge/Downloads-250K%2B-0EA5E9?style=for-the-badge&logo=apprater&logoColor=white" alt="Downloads" />
-<img src="https://img.shields.io/badge/Active_Users-150K%2B_MAU-22D3EE?style=for-the-badge&logo=android&logoColor=white" alt="MAU" />
+<img src="https://img.shields.io/badge/Experience-7%2B_Years-0EA5E9?style=for-the-badge&logo=flutter&logoColor=white" alt="Experience" />
+<img src="https://img.shields.io/badge/Jawahr-150K%2B_MAU-22D3EE?style=for-the-badge&logo=android&logoColor=white" alt="Jawahr MAU" />
+<img src="https://img.shields.io/badge/Huffaz_Apps-770K%2B_Users-F59E0B?style=for-the-badge&logo=googleplay&logoColor=white" alt="Huffaz users" />
 <img src="https://img.shields.io/badge/Apps_Shipped-10%2B-8B5CF6?style=for-the-badge&logo=googleplay&logoColor=white" alt="Apps Shipped" />
-<img src="https://img.shields.io/badge/App_Ratings-4.0%E2%AD%90%2B-F59E0B?style=for-the-badge&logo=apple&logoColor=white" alt="Ratings" />
-<img src="https://img.shields.io/badge/GDG_Organizer-6K%2B_Members-34D399?style=for-the-badge&logo=googlechrome&logoColor=white" alt="GDG" />
+<img src="https://img.shields.io/badge/GDG_Co--founder-6K%2B_Members-34D399?style=for-the-badge&logo=googlechrome&logoColor=white" alt="GDG" />
 <img src="https://komarev.com/ghpvc/?username=melbanna40&style=for-the-badge&color=0F172A&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
@@ -15,15 +15,17 @@
 
 ## 👨‍💻 About Me
 
-Senior Mobile Engineer with **5+ years** shipping production apps across the **Saudi & Egyptian markets** — powering **150,000+ monthly active users** and **250,000+ downloads** on the App Store & Google Play.
+Senior Mobile Apps Developer in **Cairo, Egypt** with **7+ years** shipping Flutter-first apps (plus native Android & iOS) for the **Saudi & Egyptian markets**.
 
-Today I'm founder-building **[Xeer](https://xeer.app)** — an Islamic personal finance platform (Flutter mobile + Next.js web) — while engineering apps that millions rely on.
+Currently at **Recapet**, building Flutter features for **[Jawahr](https://play.google.com/store/apps/details?id=app.jawahr.com)**, a Saudi home-services booking app with **150,000+ monthly active users**. Before that, at **Tamayyuz Center**, I shipped **Huffaz Al-Quran** and **Huffaz Al-Mutoon** — **770,000+ users** combined.
+
+Outside the day job: backend & mobile engineer on **[Xeer](https://xeer.app)** (Islamic personal finance) and sole developer of **Roquia** (Islamic spiritual wellness, pre-release).
 
 - 🏗️ **Clean Architecture** evangelist — SOLID, MVVM, feature-first codebases that scale with teams
-- 💳 **Payments specialist** — StoreKit / Play Billing subscriptions, Apple Pay, Google Pay, Stripe
-- 🔄 **CI/CD & Release Automation** — Fastlane, Codemagic, GitHub Actions, Shorebird OTA patches
-- 🤖 **AI-augmented engineering** — agentic workflows for planning, code review & release automation
-- 🎤 **GDG Organizer** — grew our local community to **6,000+ members** through workshops & mentorship
+- 💳 **Payments & subscriptions** — payment integrations, App Store & Google Play in-app subscriptions with server-side verification
+- 🔄 **CI/CD & Release Automation** — Fastlane, GitHub Actions, Shorebird OTA patches
+- 🤖 **AI-augmented engineering** — agentic workflows with **Claude Code** for planning, code review & release automation
+- 🎤 **GDG co-founder** — co-founded **GDG 6th of October City**, now **6,000+ members**
 
 ---
 
@@ -32,27 +34,26 @@ Today I'm founder-building **[Xeer](https://xeer.app)** — an Islamic personal 
 ### Mobile Core
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
-### Web & Cloud
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+### Backend, Web & Cloud
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=smartthings&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ### DevOps & Release Engineering
 ![Fastlane](https://img.shields.io/badge/Fastlane-8B5CF6?style=for-the-badge&logo=fastlane&logoColor=white)
-![Codemagic](https://img.shields.io/badge/Codemagic-1F2C34?style=for-the-badge&logo=codemagic&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Shorebird](https://img.shields.io/badge/Shorebird_OTA-22D3EE?style=for-the-badge&logo=rocket&logoColor=black)
 ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)
 ![Play Console](https://img.shields.io/badge/Play_Console-414141?style=for-the-badge&logo=googleplay&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
 
 ### Engineering Practices
 
@@ -60,37 +61,42 @@ Today I'm founder-building **[Xeer](https://xeer.app)** — an Islamic personal 
 | :--- | :--- |
 | **Architecture** | Clean Architecture, MVVM, SOLID, Feature-First Modules, Multi-Flavor Builds |
 | **State Management** | BLoC / Cubit, Riverpod, Provider |
-| **Payments & IAP** | StoreKit 2, Google Play Billing, Apple Pay, Google Pay, Stripe, Sandbox Testing |
-| **Local Storage** | Isar, Hive, SQLite (sqflite), Secure Storage |
+| **Payments & IAP** | App Store & Google Play subscriptions, server-side verification, App Store Server Notifications V2, Google Play RTDN, Sandbox Testing |
+| **Local Storage** | Isar, SQLite (sqflite), Drift, Hive, Secure Storage |
 | **Networking** | Dio, REST, GraphQL, WebSockets, Interceptors & Logging |
 | **Firebase Suite** | Crashlytics, FCM Push, App Distribution, Analytics, Remote Config |
-| **Media & Hardware** | WebRTC, Audio Engines (recitation/playback), Google Maps, Background Services |
+| **Media & Hardware** | WebRTC, Agora calls, Audio Engines (recitation/playback), Google Maps, Background Services |
 
 ---
 
 ## 🚀 Flagship Products
 
-### 🔥 [Xeer — Islamic Personal Finance](https://xeer.app) · [⬇️ Download](https://xeer.app/download) · *Building Now*
-> **Founder & Full-Stack Engineer** — owning the entire product end-to-end, solo across the whole stack:
-> - 📱 **Mobile**: **Flutter** app — subscription IAP via Apple StoreKit & Google Play Billing, Shorebird OTA patches
-> - 🌐 **Web**: **Next.js** web app — finance dashboard & management portal
-> - ⚙️ **Backend & DevOps**: custom backend + fully automated CI/CD pipeline shipping to both stores
-> - Riba-free money management: budgeting, goals & halal-aware financial planning with Arabic-first RTL UX
+### 🏆 [Jawahr — Home-Services Booking (KSA)](https://play.google.com/store/apps/details?id=app.jawahr.com) · *Recapet, 2025–present*
+> **Focus: Scale & Booking Flows** · **150,000+ monthly active users**
+> - Build and maintain core Flutter features: booking flows, service browsing, location-based services & payment integrations
+> - Analytics tracking for user-journey and conversion-funnel analysis; performance & stability work
 
-### 🏆 [Jawahr — Domestic Workforce Platform](https://play.google.com/store/apps/details?id=app.jawahr.com)
-> **Focus: Scalability & High Traffic**
-> - Architected the core Flutter infrastructure serving **150,000+ monthly active users**
-> - Engineered complex booking flows & real-time location services with BLoC at scale
+### 📖 [Huffaz Al-Quran — Quran Memorization](https://play.google.com/store/apps/details?id=com.tamayyuzcenter.huffazulquran) · *Tamayyuz Center, 2024–2025*
+> **Focus: Interactive Media & Offline-First** · **200,000+ users**
+> - Audio recitation with streaming optimization, progress tracking & offline access through caching
+> - Cross-device progress sync with conflict resolution; OTA patching & store automation
 
-### 📖 [Huffaz Al-Quran — Quran Memorization](https://play.google.com/store/apps/details?id=com.tamayyuzcenter.huffazulquran)
-> **Focus: Interactive Media & Offline-First** · **100,000+ downloads**
-> - Advanced audio recitation engines & interactive memorization tracking
-> - Modular clean architecture with full CI/CD, OTA patching & store automation
+### 📚 [Huffaz Al-Mutoon — Islamic Texts Learning](https://play.google.com/store/apps/details?id=com.tamayyuzcenter.huffazulmutoon) · *Tamayyuz Center, 2024–2025*
+> **Focus: Educational Logic & UX** · **560,000+ users**
+> - Quizzes, educational modules & personalized learning plans
+> - Arabic typography, RTL rendering and curriculum-driven UX
 
-### 📚 [Huffaz Al-Mutoon — Islamic Texts Learning](https://play.google.com/store/apps/details?id=com.tamayyuzcenter.huffazulmutoon)
-> **Focus: Educational Logic & UX** · **100,000+ downloads**
-> - Custom quiz engines & personalized learning schedules
-> - Arabic typography and curriculum-driven UX
+### 🔥 [Xeer — Islamic Personal Finance](https://xeer.app) · [⬇️ Download](https://xeer.app/download) · *Since 2025*
+> **Backend & Mobile Engineer** on the startup team:
+> - 📱 **Mobile**: Flutter app (BLoC/Cubit, GetIt, Dio/Retrofit, Drift, Firebase Auth with Apple & Google sign-in)
+> - 💳 **Subscriptions**: App Store & Google Play IAP end to end — purchase flow, server-side verification, App Store Server Notifications V2 & Google Play RTDN
+> - ⚙️ **Backend & Release**: Node.js (Hapi, MongoDB) API; one-command Fastlane release to both stores
+> - Live gold/silver prices, multi-currency conversion & credit-card payoff planning, in Arabic & English
+
+### 🌙 Roquia (رقية) — Islamic Spiritual Wellness · *Pre-release*
+> **Sole Developer** of the monorepo:
+> - 📱 Flutter app (BLoC/Cubit, GetIt, auto_route) — daily adhkar & werd, consultations over chat and Agora audio/video calls
+> - ⚙️ Go backend (Fiber, PostgreSQL, Clean Architecture), Next.js admin dashboard, FCM, Sentry, GitHub Actions CI
 
 <details>
 <summary><b>📱 More Shipped Apps — live on the stores</b></summary>
@@ -139,7 +145,7 @@ Today I'm founder-building **[Xeer](https://xeer.app)** — an Islamic personal 
 
 ## 🤝 Leadership & Community
 
-As a **GDG Organizer**, I'm committed to growing the tech ecosystem — helping our local branch reach **6,000+ members** through workshops, talks and mentorship for aspiring mobile engineers. A great engineer doesn't just ship code — they elevate everyone around them.
+I co-founded **GDG 6th of October City**, which has grown to **6,000+ members** through workshops, talks and mentorship for students and aspiring mobile engineers. A great engineer doesn't just ship code — they elevate everyone around them.
 
 ---
 
@@ -147,9 +153,8 @@ As a **GDG Organizer**, I'm committed to growing the tech ecosystem — helping 
 
 <div align="center">
 
-<a href="https://xeer.app" target="_blank"><img src="https://img.shields.io/badge/Xeer-My_Product-22D3EE?style=for-the-badge&logo=rocket&logoColor=black" alt="Xeer" /></a>
+<a href="https://xeer.app" target="_blank"><img src="https://img.shields.io/badge/Xeer-Islamic_Finance-22D3EE?style=for-the-badge&logo=rocket&logoColor=black" alt="Xeer" /></a>
 <a href="https://www.linkedin.com/in/melbanna40/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://twitter.com/MBanna40" target="_blank"><img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
 <a href="mailto:mel.banna40@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 
 </div>
