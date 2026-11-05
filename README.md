@@ -105,6 +105,7 @@ Today I'm founder-building **[Xeer](https://xeer.app)** — an Islamic personal 
 | **[Elherafyeen — الحرفيين](https://play.google.com/store/apps/details?id=com.elherafyeen.elherafyeen)** | Android | Trades & craftsmen services platform |
 | **[Burger Nook — زاوية البرجر](https://play.google.com/store/apps/details?id=com.burgernook)** · [iOS](https://apps.apple.com/us/app/%D8%B2%D8%A7%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D8%A8%D8%B1%D8%AC%D8%B1/id1531327709) | Android + iOS | Food ordering — burger restaurant brand |
 | **[Asmak Al-Hamra — اسماك الحمراء](https://apps.apple.com/us/app/%D8%A7%D8%B3%D9%85%D8%A7%D9%83-%D8%A7%D9%84%D8%AD%D9%85%D8%B1%D8%A7%D8%A1/id1634425588)** | iOS | Seafood ordering & delivery |
+| **[Gigi — جي جي](https://play.google.com/store/apps/details?id=sa.com.eot)** · [iOS](https://apps.apple.com/us/app/%D8%AC%D9%8A-%D8%AC%D9%8A/id6756551289) | Android + iOS | Group trivia & party quiz game — Saudi-made |
 
 </details>
 
