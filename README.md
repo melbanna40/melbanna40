@@ -19,7 +19,7 @@ Senior Mobile Apps Developer in **Cairo, Egypt** with **7+ years** shipping Flut
 
 Currently a part-time **Backend & Mobile Engineer at [Xeer](https://xeer.app)** (Islamic personal finance), owning the Flutter app, the Node.js API and App Store / Google Play subscriptions. From Feb 2025 to Aug 2026 I was also a part-time **Flutter Developer at [Neotrick](https://www.linkedin.com/company/neotrick/)**, building client apps such as **AMN** (legal-office management), the **GG** team trivia game and the **King Khalid Foundation** survey app. Previously at **Recapet**, I built Flutter features for **[Jawahr](https://play.google.com/store/apps/details?id=app.jawahr.com)**, a Saudi home-services booking app with **150,000+ monthly active users**, and at **Tamayyuz Center** I shipped **Huffaz Al-Quran** and **Huffaz Al-Mutoon** — **770,000+ users** combined.
 
-On the side: sole developer of **Roquia** (Islamic spiritual wellness, pre-release), and freelance developer of **Copa**, a football-pitch booking app live on the Saudi App Store.
+On the side: sole developer of **Roquia** (Islamic spiritual wellness, pre-release), and freelance developer of **Copa**, a football-pitch booking app live on the App Store and Google Play.
 
 - 🏗️ **Clean Architecture** evangelist — SOLID, MVVM, feature-first codebases that scale with teams
 - 💳 **Payments & subscriptions** — payment integrations, App Store & Google Play in-app subscriptions with server-side verification
@@ -102,8 +102,8 @@ On the side: sole developer of **Roquia** (Islamic spiritual wellness, pre-relea
 > - 🎓 **Badr Al-Tamam Academy** (e-learning): in-app purchases and FCM push notifications
 > - 🚀 Fastlane & GitHub Actions release pipelines to TestFlight and Google Play
 
-### ⚽ [Copa — ملاعب كوبا](https://apps.apple.com/sa/app/id6695719655) · *Freelance, 2023 – 2026*
-> **Football-pitch booking & team matches in Buraidah, KSA** · live on the App Store
+### ⚽ [Copa — ملاعب كوبا](https://apps.apple.com/sa/app/id6695719655) · [Google Play](https://play.google.com/store/apps/details?id=com.banna.copa) · *Freelance, 2023 – 2026*
+> **Built & maintained — football-pitch booking & team matches in Buraidah, KSA** · live on the App Store & Google Play
 > - Reservations, fixed recurring bookings, team creation & joining, cancellation fines and slot-cancelled alerts
 > - Remote Config force updates, push notifications, Fastlane releases (Play internal track & Firebase App Distribution)
 
