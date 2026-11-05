@@ -17,9 +17,9 @@
 
 Senior Mobile Apps Developer in **Cairo, Egypt** with **7+ years** shipping Flutter-first apps (plus native Android & iOS) for the **Saudi & Egyptian markets**.
 
-Currently at **Recapet**, building Flutter features for **[Jawahr](https://play.google.com/store/apps/details?id=app.jawahr.com)**, a Saudi home-services booking app with **150,000+ monthly active users**. Before that, at **Tamayyuz Center**, I shipped **Huffaz Al-Quran** and **Huffaz Al-Mutoon** — **770,000+ users** combined.
+Currently a **Backend & Mobile Engineer at [Xeer](https://xeer.app)** (Islamic personal finance), owning the Flutter app, the Node.js API and App Store / Google Play subscriptions. Previously at **Recapet**, I built Flutter features for **[Jawahr](https://play.google.com/store/apps/details?id=app.jawahr.com)**, a Saudi home-services booking app with **150,000+ monthly active users**, and at **Tamayyuz Center** I shipped **Huffaz Al-Quran** and **Huffaz Al-Mutoon** — **770,000+ users** combined.
 
-Outside the day job: backend & mobile engineer on **[Xeer](https://xeer.app)** (Islamic personal finance) and sole developer of **Roquia** (Islamic spiritual wellness, pre-release).
+On the side: sole developer of **Roquia** (Islamic spiritual wellness, pre-release).
 
 - 🏗️ **Clean Architecture** evangelist — SOLID, MVVM, feature-first codebases that scale with teams
 - 💳 **Payments & subscriptions** — payment integrations, App Store & Google Play in-app subscriptions with server-side verification
@@ -72,7 +72,7 @@ Outside the day job: backend & mobile engineer on **[Xeer](https://xeer.app)** (
 
 ## 🚀 Flagship Products
 
-### 🏆 [Jawahr — Home-Services Booking (KSA)](https://play.google.com/store/apps/details?id=app.jawahr.com) · *Recapet, 2025–present*
+### 🏆 [Jawahr — Home-Services Booking (KSA)](https://play.google.com/store/apps/details?id=app.jawahr.com) · *Recapet, Oct 2025 – Jun 2026*
 > **Focus: Scale & Booking Flows** · **150,000+ monthly active users**
 > - Build and maintain core Flutter features: booking flows, service browsing, location-based services & payment integrations
 > - Analytics tracking for user-journey and conversion-funnel analysis; performance & stability work
@@ -87,7 +87,7 @@ Outside the day job: backend & mobile engineer on **[Xeer](https://xeer.app)** (
 > - Quizzes, educational modules & personalized learning plans
 > - Arabic typography, RTL rendering and curriculum-driven UX
 
-### 🔥 [Xeer — Islamic Personal Finance](https://xeer.app) · [⬇️ Download](https://xeer.app/download) · *Since 2025*
+### 🔥 [Xeer — Islamic Personal Finance](https://xeer.app) · [⬇️ Download](https://xeer.app/download) · *Feb 2025 – present*
 > **Backend & Mobile Engineer** on the startup team:
 > - 📱 **Mobile**: Flutter app (BLoC/Cubit, GetIt, Dio/Retrofit, Drift, Firebase Auth with Apple & Google sign-in)
 > - 💳 **Subscriptions**: App Store & Google Play IAP end to end — purchase flow, server-side verification, App Store Server Notifications V2 & Google Play RTDN
