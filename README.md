@@ -17,7 +17,7 @@
 
 Senior Mobile Apps Developer in **Cairo, Egypt** with **7+ years** shipping Flutter-first apps (plus native Android & iOS) for the **Saudi & Egyptian markets**.
 
-Currently a part-time **Backend & Mobile Engineer at [Xeer](https://xeer.app)** (Islamic personal finance), owning the Flutter app, the Node.js API and App Store / Google Play subscriptions. From Feb 2025 to Aug 2026 I was also a part-time **Flutter Developer at [Neotrick](https://www.linkedin.com/company/neotrick/)**, building client apps such as **AMN** (legal-office management) and the **King Khalid Foundation** survey app. Previously at **Recapet**, I built Flutter features for **[Jawahr](https://play.google.com/store/apps/details?id=app.jawahr.com)**, a Saudi home-services booking app with **150,000+ monthly active users**, and at **Tamayyuz Center** I shipped **Huffaz Al-Quran** and **Huffaz Al-Mutoon** — **770,000+ users** combined.
+Currently a part-time **Backend & Mobile Engineer at [Xeer](https://xeer.app)** (Islamic personal finance), owning the Flutter app, the Node.js API and App Store / Google Play subscriptions. From Feb 2025 to Aug 2026 I was also a part-time **Flutter Developer at [Neotrick](https://www.linkedin.com/company/neotrick/)**, building client apps such as **AMN** (legal-office management), the **GG** team trivia game and the **King Khalid Foundation** survey app. Previously at **Recapet**, I built Flutter features for **[Jawahr](https://play.google.com/store/apps/details?id=app.jawahr.com)**, a Saudi home-services booking app with **150,000+ monthly active users**, and at **Tamayyuz Center** I shipped **Huffaz Al-Quran** and **Huffaz Al-Mutoon** — **770,000+ users** combined.
 
 On the side: sole developer of **Roquia** (Islamic spiritual wellness, pre-release), and freelance developer of **Copa**, a football-pitch booking app live on the Saudi App Store.
 
@@ -98,6 +98,7 @@ On the side: sole developer of **Roquia** (Islamic spiritual wellness, pre-relea
 > **Flutter (BLoC/Cubit, GetIt, auto_route, Dio/Retrofit), Arabic & English, dev/prod flavors**
 > - ⚖️ **[AMN — آمن](https://apps.apple.com/eg/app/%D8%A2%D9%85%D9%86-amn/id6746725542)**: legal-office management for lawyers and agents — lawsuits, bookings, real-time chat (Laravel Echo), AI chat, subscriptions, office & mission management
 > - 📋 **King Khalid Foundation survey app** (sole developer): organisation & employee accounts, OTP sign-in, evaluation and data-collection surveys, push notifications
+> - 🎮 **[GG — جي جي](https://play.google.com/store/apps/details?id=sa.com.eot)** · [iOS](https://apps.apple.com/us/app/%D8%AC%D9%8A-%D8%AC%D9%8A/id6756551289): Saudi team trivia game — game board, timers, help tools, image/video/audio questions, Moyasar payments, invoices & promo codes
 > - 🎓 **Badr Al-Tamam Academy** (e-learning): in-app purchases and FCM push notifications
 > - 🚀 Fastlane & GitHub Actions release pipelines to TestFlight and Google Play
 
@@ -123,7 +124,6 @@ On the side: sole developer of **Roquia** (Islamic spiritual wellness, pre-relea
 | **[Elherafyeen — الحرفيين](https://play.google.com/store/apps/details?id=com.elherafyeen.elherafyeen)** | Android | Trades & craftsmen services platform |
 | **[Burger Nook — زاوية البرجر](https://play.google.com/store/apps/details?id=com.burgernook)** · [iOS](https://apps.apple.com/us/app/%D8%B2%D8%A7%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D8%A8%D8%B1%D8%AC%D8%B1/id1531327709) | Android + iOS | Food ordering — burger restaurant brand |
 | **[Asmak Al-Hamra — اسماك الحمراء](https://apps.apple.com/us/app/%D8%A7%D8%B3%D9%85%D8%A7%D9%83-%D8%A7%D9%84%D8%AD%D9%85%D8%B1%D8%A7%D8%A1/id1634425588)** | iOS | Seafood ordering & delivery |
-| **[Gigi — جي جي](https://play.google.com/store/apps/details?id=sa.com.eot)** · [iOS](https://apps.apple.com/us/app/%D8%AC%D9%8A-%D8%AC%D9%8A/id6756551289) | Android + iOS | Group trivia & party quiz game — Saudi-made |
 
 </details>
 
